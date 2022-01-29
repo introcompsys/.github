@@ -1,7 +1,3 @@
-# Introduction to Computer Systems at URI
+# Org level configurations
 
-Professor Sarah Brown
 
-[general course info](https://introcompsys.github.io/)
-
-[spring 2022](https://introcompsys.github.io/spring2022/index.html)
